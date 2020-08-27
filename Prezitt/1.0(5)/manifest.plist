@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/yaashtech/build/raw/master/Prezitt/57x57.png</string>
+					<string>https://raw.githubusercontent.com/yaashtech/build/master/Prezitt/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/yaashtech/build/raw/master/Prezitt/512x512.png</string>
+					<string>https://raw.githubusercontent.com/yaashtech/build/master/Prezitt/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
